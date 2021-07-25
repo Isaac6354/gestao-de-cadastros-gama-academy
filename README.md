@@ -13,14 +13,14 @@ Esta aplicação web foi construída com a ajuda da comunidade da Gama Academy, 
 Abaixo seque algumas telas mostrando o fluxo de funcionamento da aplicação e o <a href="#">link</a> para o projeto
 
 Tela principal
-![image](https://imgbox.com/ZpiSvlax)
+![image](https://imgbox.com/ZpiSvlax.png)
 
 Tela de cadastro dos produtos
-![image](https://imgbox.com/v948JMwT)
+![image](https://imgbox.com/v948JMwT.png)
 
 Tela de cadastro dos clientes
-![image](https://imgbox.com/54T05uLL)
+![image](https://imgbox.com/54T05uLL.png)
 
 Validação da tela de cadastro dos clientes
-![image](https://imgbox.com/01NdcGlk)
+![image](https://imgbox.com/01NdcGlk.png)
 
