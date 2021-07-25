@@ -13,7 +13,7 @@ Esta aplicação web foi construída com a ajuda da comunidade da Gama Academy, 
 Abaixo seque algumas telas mostrando o fluxo de funcionamento da aplicação e o <a href="#">link</a> para o projeto
 
 Tela principal
-https://uploaddeimagens.com.br/imagens/ytRkUdg.png
+https://uploaddeimagens.com.br/imagens/ytRkUdg
 
 Tela de cadastro dos produtos
 https://uploaddeimagens.com.br/imagens/Eu-mc4I
