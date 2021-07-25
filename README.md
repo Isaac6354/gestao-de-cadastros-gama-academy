@@ -10,7 +10,7 @@ Este pequeno sistema foi contruído utilizando:
 
 Esta aplicação web foi construída com a ajuda da comunidade da Gama Academy, através do programa Hiring Coders, que visa gerenciar o controle de cadastros de produtos e clientes no local storage.
 
-Abaixo seque algumas telas mostrando o fluxo de funcionamento da aplicação e o <a href="#">link</a> para o projeto
+Abaixo seque algumas telas mostrando o fluxo de funcionamento da aplicação e o <a href="https://gestao-de-cadastros-gama-academy.netlify.app/">link</a> para o projeto
 
 Tela principal
 https://uploaddeimagens.com.br/imagens/ytRkUdg
